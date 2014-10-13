@@ -1,0 +1,9 @@
+c:\users\codebreaker\documents\visual studio 2013\Projects\PopcornProject\Popcorn\bin\Debug\Popcorn.exe.config
+C:\Users\CodeBreaker\documents\visual studio 2013\Projects\PopcornProject\Popcorn\bin\Debug\Popcorn.exe
+C:\Users\CodeBreaker\documents\visual studio 2013\Projects\PopcornProject\Popcorn\bin\Debug\Popcorn.pdb
+C:\Users\CodeBreaker\documents\visual studio 2013\Projects\PopcornProject\Popcorn\obj\Debug\Popcorn.csprojResolveAssemblyReference.cache
+C:\Users\CodeBreaker\documents\visual studio 2013\Projects\PopcornProject\Popcorn\obj\Debug\Popcorn.Form1.resources
+C:\Users\CodeBreaker\documents\visual studio 2013\Projects\PopcornProject\Popcorn\obj\Debug\Popcorn.Properties.Resources.resources
+C:\Users\CodeBreaker\documents\visual studio 2013\Projects\PopcornProject\Popcorn\obj\Debug\Popcorn.csproj.GenerateResource.Cache
+C:\Users\CodeBreaker\documents\visual studio 2013\Projects\PopcornProject\Popcorn\obj\Debug\Popcorn.exe
+C:\Users\CodeBreaker\documents\visual studio 2013\Projects\PopcornProject\Popcorn\obj\Debug\Popcorn.pdb
