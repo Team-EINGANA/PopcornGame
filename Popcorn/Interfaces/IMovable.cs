@@ -1,11 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace Popcorn
+﻿namespace Popcorn.Interfaces
 {
-    public interface IMovable
+    public interface IMovable: IGameObject
     {
+        int MovementSpeed { get; set; }
+        Direction Direction { get; set; }
+        void Move();
     }
 }

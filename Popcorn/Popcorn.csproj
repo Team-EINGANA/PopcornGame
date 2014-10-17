@@ -48,6 +48,7 @@
     <Compile Include="Classes\Bonuses\Bonus.cs" />
     <Compile Include="Classes\Ball.cs" />
     <Compile Include="Classes\Brick.cs" />
+    <Compile Include="Draw.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -56,9 +57,11 @@
     </Compile>
     <Compile Include="Classes\GameObject.cs" />
     <Compile Include="Classes\Pan.cs" />
+    <Compile Include="Interfaces\Direction.cs" />
     <Compile Include="Interfaces\ICollidable.cs" />
     <Compile Include="Interfaces\IBonus.cs" />
     <Compile Include="Interfaces\IDrawable.cs" />
+    <Compile Include="Interfaces\IGameObject.cs" />
     <Compile Include="Interfaces\IMovable.cs" />
     <Compile Include="Classes\Bonuses\PanBonus.cs" />
     <Compile Include="Interfaces\ITimeoutable.cs" />

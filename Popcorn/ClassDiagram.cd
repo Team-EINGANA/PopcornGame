@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="Popcorn.GameObject">
+  <Class Name="Popcorn.Interfaces.GameObject">
     <Position X="4.25" Y="1.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAgIAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAgACAAAAAAAAAAgIAAIAAABAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Classes\GameObject.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
@@ -53,6 +53,14 @@
       <FileName>Classes\Bonuses\BallBonus.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="Popcorn.Draw">
+    <Position X="15.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Draw.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
   <Struct Name="Popcorn.Position">
     <Position X="6.75" Y="1.5" Width="1.5" />
     <TypeIdentifier>
@@ -70,14 +78,14 @@
   <Interface Name="Popcorn.IDrawable">
     <Position X="11.25" Y="1" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAgACAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Interfaces\IDrawable.cs</FileName>
     </TypeIdentifier>
   </Interface>
-  <Interface Name="Popcorn.IMovable">
+  <Interface Name="Popcorn.Interfaces.IMovable">
     <Position X="11.25" Y="2" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAIAAAAAAACAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Interfaces\IMovable.cs</FileName>
     </TypeIdentifier>
   </Interface>

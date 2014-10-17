@@ -7,3 +7,4 @@ C:\Users\CodeBreaker\documents\visual studio 2013\Projects\PopcornProject\Popcor
 C:\Users\CodeBreaker\documents\visual studio 2013\Projects\PopcornProject\Popcorn\obj\Debug\Popcorn.csproj.GenerateResource.Cache
 C:\Users\CodeBreaker\documents\visual studio 2013\Projects\PopcornProject\Popcorn\obj\Debug\Popcorn.exe
 C:\Users\CodeBreaker\documents\visual studio 2013\Projects\PopcornProject\Popcorn\obj\Debug\Popcorn.pdb
+D:\GitHub\Team-EINGANA\trunk\Popcorn\bin\Debug\Popcorn.exe.config
