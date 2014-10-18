@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Popcorn
+namespace Popcorn.Structures
 {
     public struct Size
     {
-        private int width;
-        private int height;
+        public int Width { get; set; }
+        public int Height { get; set; }
     }
 }

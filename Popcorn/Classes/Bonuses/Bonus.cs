@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using Popcorn.Interfaces;
+using Popcorn.Structures;
 
-namespace Popcorn
+namespace Popcorn.Classes.Bonuses
 {
     public abstract class Bonus : GameObject, IMovable, IBonus, ITimeoutable
     {

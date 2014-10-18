@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using Popcorn.Interfaces;
 
-namespace Popcorn
+namespace Popcorn.Classes
 {
     public class Brick : GameObject
     {

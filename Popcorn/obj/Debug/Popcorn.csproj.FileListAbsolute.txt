@@ -15,3 +15,13 @@ C:\Users\CodeBreaker\Documents\GitHub\PopcornGame\Popcorn\obj\Debug\Popcorn.cspr
 C:\Users\CodeBreaker\Documents\GitHub\PopcornGame\Popcorn\obj\Debug\Popcorn.Form1.resources
 C:\Users\CodeBreaker\Documents\GitHub\PopcornGame\Popcorn\obj\Debug\Popcorn.Properties.Resources.resources
 C:\Users\CodeBreaker\Documents\GitHub\PopcornGame\Popcorn\obj\Debug\Popcorn.csproj.GenerateResource.Cache
+C:\Users\CodeBreaker\Documents\PopcornGame\Popcorn\bin\Debug\Popcorn.exe.config
+C:\Users\CodeBreaker\Documents\PopcornGame\Popcorn\obj\Debug\Popcorn.exe
+C:\Users\CodeBreaker\Documents\PopcornGame\Popcorn\obj\Debug\Popcorn.pdb
+E:\TempRepositoryCopy\Popcorn\bin\Debug\Popcorn.exe.config
+E:\TempRepositoryCopy\Popcorn\obj\Debug\Popcorn.exe
+E:\TempRepositoryCopy\Popcorn\obj\Debug\Popcorn.pdb
+E:\TempRepositoryCopy\Popcorn\obj\Debug\Popcorn.csprojResolveAssemblyReference.cache
+E:\TempRepositoryCopy\Popcorn\obj\Debug\Popcorn.Form1.resources
+E:\TempRepositoryCopy\Popcorn\obj\Debug\Popcorn.Properties.Resources.resources
+E:\TempRepositoryCopy\Popcorn\obj\Debug\Popcorn.csproj.GenerateResource.Cache

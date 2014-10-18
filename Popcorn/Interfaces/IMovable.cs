@@ -1,4 +1,6 @@
-﻿namespace Popcorn.Structures
+﻿using Popcorn.Structures;
+
+namespace Popcorn.Interfaces
 {
     public interface IMovable: IGameObject
     {

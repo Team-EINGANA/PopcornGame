@@ -1,4 +1,7 @@
-﻿namespace Popcorn.Structures
+﻿using Popcorn.Interfaces;
+using Popcorn.Structures;
+
+namespace Popcorn.Classes
 {
     public abstract class GameObject : IDrawable, ICollidable
     {

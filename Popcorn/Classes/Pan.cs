@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using Popcorn.Interfaces;
+using Popcorn.Structures;
 
-namespace Popcorn
+namespace Popcorn.Classes
 {
     public class Pan : GameObject, IMovable
     {

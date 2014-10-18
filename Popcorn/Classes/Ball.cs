@@ -1,6 +1,6 @@
 ﻿using Popcorn.Interfaces;
 
-namespace Popcorn
+namespace Popcorn.Classes
 {
     public class Ball : GameObject, IMovable
     {
