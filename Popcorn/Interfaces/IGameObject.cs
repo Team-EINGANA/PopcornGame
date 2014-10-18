@@ -13,5 +13,4 @@ namespace Popcorn.Interfaces
          int SetY { get; set; }
 
     }
-    }
 }

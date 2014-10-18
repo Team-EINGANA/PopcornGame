@@ -8,3 +8,10 @@ C:\Users\CodeBreaker\documents\visual studio 2013\Projects\PopcornProject\Popcor
 C:\Users\CodeBreaker\documents\visual studio 2013\Projects\PopcornProject\Popcorn\obj\Debug\Popcorn.exe
 C:\Users\CodeBreaker\documents\visual studio 2013\Projects\PopcornProject\Popcorn\obj\Debug\Popcorn.pdb
 D:\GitHub\Team-EINGANA\trunk\Popcorn\bin\Debug\Popcorn.exe.config
+C:\Users\CodeBreaker\Documents\GitHub\PopcornGame\Popcorn\bin\Debug\Popcorn.exe.config
+C:\Users\CodeBreaker\Documents\GitHub\PopcornGame\Popcorn\obj\Debug\Popcorn.exe
+C:\Users\CodeBreaker\Documents\GitHub\PopcornGame\Popcorn\obj\Debug\Popcorn.pdb
+C:\Users\CodeBreaker\Documents\GitHub\PopcornGame\Popcorn\obj\Debug\Popcorn.csprojResolveAssemblyReference.cache
+C:\Users\CodeBreaker\Documents\GitHub\PopcornGame\Popcorn\obj\Debug\Popcorn.Form1.resources
+C:\Users\CodeBreaker\Documents\GitHub\PopcornGame\Popcorn\obj\Debug\Popcorn.Properties.Resources.resources
+C:\Users\CodeBreaker\Documents\GitHub\PopcornGame\Popcorn\obj\Debug\Popcorn.csproj.GenerateResource.Cache

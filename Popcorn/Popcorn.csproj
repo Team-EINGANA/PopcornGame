@@ -57,7 +57,6 @@
     </Compile>
     <Compile Include="Classes\GameObject.cs" />
     <Compile Include="Classes\Pan.cs" />
-    <Compile Include="Interfaces\Direction.cs" />
     <Compile Include="Interfaces\ICollidable.cs" />
     <Compile Include="Interfaces\IBonus.cs" />
     <Compile Include="Interfaces\IDrawable.cs" />
@@ -65,6 +64,7 @@
     <Compile Include="Interfaces\IMovable.cs" />
     <Compile Include="Classes\Bonuses\PanBonus.cs" />
     <Compile Include="Interfaces\ITimeoutable.cs" />
+    <Compile Include="Structures\Direction.cs" />
     <Compile Include="Structures\Position.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -96,7 +96,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ball_purple.jpg" />
+    <Content Include="Resources\ball_purple.png" />
+    <Content Include="Resources\paddle.png" />
+    <Content Include="Resources\simple_brick.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
