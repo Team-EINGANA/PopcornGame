@@ -5,12 +5,11 @@ using System.Text;
 
 namespace Popcorn.Interfaces
 {
-   public interface IGameObject
+    public interface IGameObject
     {
-         int X { get; set; }
-         int Y { get; set; }
-         int SetX { get; set; }
-         int SetY { get; set; }
-
+        int X { get; set; }
+        int Y { get; set; }
+        int SizeX { get; set; }
+        int SizeY { get; set; }
     }
 }

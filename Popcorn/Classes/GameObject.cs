@@ -3,25 +3,15 @@ using Popcorn.Structures;
 
 namespace Popcorn.Classes
 {
-    public abstract class GameObject : IDrawable, ICollidable
+    public abstract class GameObject : ICollidable, IGameObject, IDrawable
     {
         protected Position position;
         protected Size size;
-        protected string imagePath;
-
-        public void AddObject(IGameObject drawableObject)
-        {
-            throw new System.NotImplementedException();
-        }
-
-        public void RemoveObject(IGameObject drawableObject)
-        {
-            throw new System.NotImplementedException();
-        }
-
-        public void RedrowObject(IGameObject drawableObject)
-        {
-            throw new System.NotImplementedException();
-        }
+        
+        public int X { get; set; }
+        public int Y { get; set; }
+        public int SizeX { get; set; }
+        public int SizeY { get; set; }
+        public ImageType Image { get; set; }
     }
 }

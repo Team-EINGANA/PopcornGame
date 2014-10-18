@@ -1,113 +1,153 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="Popcorn.Interfaces.GameObject">
-    <Position X="4.25" Y="1.75" Width="1.5" />
+  <Class Name="Popcorn.Drawer" Collapsed="true">
+    <Position X="12.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAgACAAAAAAAAAAgIAAIAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>kIAAACAEBAAAAAIAAACAAAgQBAAAAAAAAAIAACAAAAA=</HashCode>
+      <FileName>UI\Drawer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Popcorn.Form1" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Popcorn.Program" Collapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Popcorn.Classes.GameObject" Collapsed="true">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAIAAAAAAAAJAAAAAAABAAYAA=</HashCode>
       <FileName>Classes\GameObject.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
-  <Class Name="Popcorn.Pan">
-    <Position X="3.25" Y="3.75" Width="1.5" />
+  <Class Name="Popcorn.Classes.Ball" Collapsed="true">
+    <Position X="6.5" Y="4" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Classes\Pan.cs</FileName>
+      <HashCode>AAAAAAAABIAAAAQAACAAAAAAAAgAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Classes\Ball.cs</FileName>
     </TypeIdentifier>
-    <Lollipop Orientation="Bottom" Position="0.341" />
+    <Lollipop Position="0.898" />
   </Class>
-  <Class Name="Popcorn.Brick">
-    <Position X="5.25" Y="3.75" Width="1.5" />
+  <Class Name="Popcorn.Classes.Brick" Collapsed="true">
+    <Position X="8.75" Y="4" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Classes\Brick.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Popcorn.Ball">
-    <Position X="7" Y="3.75" Width="1.5" />
+  <Class Name="Popcorn.Classes.Pan" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Classes\Ball.cs</FileName>
+      <HashCode>AAAAAAAABIAAAAQAACAAAAAAAAgAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Classes\Pan.cs</FileName>
     </TypeIdentifier>
-    <Lollipop Orientation="Bottom" Position="0.315" />
+    <Lollipop Orientation="Right" Position="0.1" />
   </Class>
-  <Class Name="Popcorn.Bonus">
-    <Position X="1.5" Y="3.75" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Classes\Bonuses\Bonus.cs</FileName>
-    </TypeIdentifier>
-    <Lollipop Orientation="Left" Position="0.122" />
-  </Class>
-  <Class Name="Popcorn.PanBonus">
-    <Position X="0.5" Y="5.25" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Classes\Bonuses\PanBonus.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="Popcorn.BallBonus">
-    <Position X="2.5" Y="5.25" Width="1.5" />
+  <Class Name="Popcorn.Classes.Bonuses.BallBonus" Collapsed="true">
+    <Position X="5.25" Y="5.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Classes\Bonuses\BallBonus.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Popcorn.Draw">
-    <Position X="15.25" Y="1.25" Width="1.5" />
+  <Class Name="Popcorn.Classes.Bonuses.Bonus" Collapsed="true">
+    <Position X="4.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABIAAAAQAACAAAAAAAAgAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Classes\Bonuses\Bonus.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.1" />
+  </Class>
+  <Class Name="Popcorn.Classes.Bonuses.PanBonus" Collapsed="true">
+    <Position X="3" Y="5.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Draw.cs</FileName>
+      <FileName>Classes\Bonuses\PanBonus.cs</FileName>
     </TypeIdentifier>
-    <Lollipop Position="0.2" />
   </Class>
-  <Struct Name="Popcorn.Position">
-    <Position X="6.75" Y="1.5" Width="1.5" />
+  <Class Name="Popcorn.Properties.Resources" Collapsed="true">
+    <Position X="12.5" Y="1.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Popcorn.Properties.Settings" Collapsed="true">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Popcorn.Structures.Direction" Collapsed="true">
+    <Position X="12.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAA=</HashCode>
+      <FileName>Structures\Direction.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Popcorn.Structures.Position" Collapsed="true">
+    <Position X="14.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
       <FileName>Structures\Position.cs</FileName>
     </TypeIdentifier>
   </Struct>
-  <Struct Name="Popcorn.Size">
-    <Position X="8.5" Y="1.5" Width="1.5" />
+  <Struct Name="Popcorn.Structures.Size" Collapsed="true">
+    <Position X="16" Y="2.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Structures\Size.cs</FileName>
     </TypeIdentifier>
   </Struct>
-  <Interface Name="Popcorn.IDrawable">
-    <Position X="11.25" Y="1" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAgACAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Interfaces\IDrawable.cs</FileName>
-    </TypeIdentifier>
-  </Interface>
-  <Interface Name="Popcorn.Interfaces.IMovable">
-    <Position X="11.25" Y="2" Width="1.5" />
+  <Interface Name="Popcorn.Interfaces.IMovable" Collapsed="true">
+    <Position X="14.25" Y="6.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAIAAAAAAACAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Interfaces\IMovable.cs</FileName>
     </TypeIdentifier>
   </Interface>
-  <Interface Name="Popcorn.IBonus">
-    <Position X="11.25" Y="3" Width="1.5" />
+  <Interface Name="Popcorn.Interfaces.IDrawingInterface" Collapsed="true">
+    <Position X="16" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAACAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IDrawingInterface.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Popcorn.Interfaces.IBonus" Collapsed="true">
+    <Position X="12.5" Y="4" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Interfaces\IBonus.cs</FileName>
     </TypeIdentifier>
   </Interface>
-  <Interface Name="Popcorn.ITimeoutable">
-    <Position X="11.25" Y="4" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Interfaces\ITimeoutable.cs</FileName>
-    </TypeIdentifier>
-  </Interface>
-  <Interface Name="Popcorn.ICollidable">
-    <Position X="13" Y="1" Width="1.5" />
+  <Interface Name="Popcorn.Interfaces.ICollidable" Collapsed="true">
+    <Position X="14.25" Y="4" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Interfaces\ICollidable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Popcorn.Interfaces.IGameObject" Collapsed="true">
+    <Position X="14.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAABAAYAA=</HashCode>
+      <FileName>Interfaces\IGameObject.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Popcorn.Interfaces.ITimeoutable" Collapsed="true">
+    <Position X="12.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ITimeoutable.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Font Name="Segoe UI" Size="9" />

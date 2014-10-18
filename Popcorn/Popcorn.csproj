@@ -48,7 +48,9 @@
     <Compile Include="Classes\Bonuses\Bonus.cs" />
     <Compile Include="Classes\Ball.cs" />
     <Compile Include="Classes\Brick.cs" />
-    <Compile Include="Draw.cs" />
+    <Compile Include="Structures\ImageType.cs" />
+    <Compile Include="Interfaces\IDrawable.cs" />
+    <Compile Include="UI\Drawer.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -59,7 +61,7 @@
     <Compile Include="Classes\Pan.cs" />
     <Compile Include="Interfaces\ICollidable.cs" />
     <Compile Include="Interfaces\IBonus.cs" />
-    <Compile Include="Interfaces\IDrawable.cs" />
+    <Compile Include="Interfaces\IDrawingInterface.cs" />
     <Compile Include="Interfaces\IGameObject.cs" />
     <Compile Include="Interfaces\IMovable.cs" />
     <Compile Include="Classes\Bonuses\PanBonus.cs" />
@@ -96,9 +98,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ball_purple.png" />
-    <Content Include="Resources\paddle.png" />
-    <Content Include="Resources\simple_brick.png" />
+    <Content Include="UI\Resources\ball_purple.png" />
+    <Content Include="UI\Resources\paddle.png" />
+    <Content Include="UI\Resources\simple_brick.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

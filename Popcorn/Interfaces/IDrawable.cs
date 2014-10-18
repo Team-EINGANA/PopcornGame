@@ -2,14 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Popcorn.Structures;
+using System.Threading.Tasks;
+using Popcorn.Classes;
 
 namespace Popcorn.Interfaces
 {
-    public interface IDrawable
+    public interface IDrawable : IGameObject
     {
-        void AddObject(IGameObject drawableObject);
-        void RemoveObject(IGameObject drawableObject);
-        void RedrowObject(IGameObject drawableObject);
+        ImageType Image { get; set; }
     }
 }
