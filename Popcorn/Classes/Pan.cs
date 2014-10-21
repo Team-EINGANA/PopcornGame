@@ -9,12 +9,19 @@ namespace Popcorn.Classes
 {
     public class Pan : GameObject, IMovable
     {
-        public int X { get; set; }
-        public int Y { get; set; }
-        public int SetX { get; set; }
-        public int Height { get; set; }
         public int MovementSpeed { get; set; }
         public Direction Direction { get; set; }
+        public const ImageType image = ImageType.Pan;
+
+        public Pan(int x, int y, int sizeX, int sizeY)
+        {
+            this.X = x;
+            this.Y = y;
+            this.SizeX = sizeX;
+            this.SizeY = sizeY;
+            this.Image = image;
+        }
+
         public void Move()
         {
             throw new NotImplementedException();

@@ -1,6 +1,6 @@
 ﻿namespace Popcorn
 {
-    partial class Form1
+    partial class GameWindow
     {
         /// <summary>
         /// Required designer variable.
@@ -30,13 +30,14 @@
         {
             this.SuspendLayout();
             // 
-            // Form1
+            // GameWindow
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(440, 347);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "GameWindow";
+            this.Text = "Popcorn";
+            this.Load += new System.EventHandler(this.GameWindow_Load);
             this.ResumeLayout(false);
 
         }

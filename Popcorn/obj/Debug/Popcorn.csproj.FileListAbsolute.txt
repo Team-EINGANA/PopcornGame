@@ -22,8 +22,8 @@ E:\TempRepositoryCopy\Popcorn\bin\Debug\Popcorn.exe.config
 E:\TempRepositoryCopy\Popcorn\obj\Debug\Popcorn.exe
 E:\TempRepositoryCopy\Popcorn\obj\Debug\Popcorn.pdb
 E:\TempRepositoryCopy\Popcorn\obj\Debug\Popcorn.csprojResolveAssemblyReference.cache
-E:\TempRepositoryCopy\Popcorn\obj\Debug\Popcorn.Form1.resources
 E:\TempRepositoryCopy\Popcorn\obj\Debug\Popcorn.Properties.Resources.resources
 E:\TempRepositoryCopy\Popcorn\obj\Debug\Popcorn.csproj.GenerateResource.Cache
 E:\TempRepositoryCopy\Popcorn\bin\Debug\Popcorn.exe
 E:\TempRepositoryCopy\Popcorn\bin\Debug\Popcorn.pdb
+E:\TempRepositoryCopy\Popcorn\obj\Debug\Popcorn.GameWindow.resources

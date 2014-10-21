@@ -9,12 +9,12 @@ using Popcorn.Interfaces;
 
 namespace Popcorn
 {
-    // Drawer = Works as a painting brush
     public class Drawer : IDrawingInterface
     {
-        private const string BallImagePath = @"Resources/ball_purple.png";
-        private const string PanImagePath = @"Resources/paddle.png";
-        private const string SimpleBrickImagePath = @"Resources/simple_brick.png";
+        // change paths
+        private const string BallImagePath = @"E:\TempRepositoryCopy\Popcorn\UI\Resources\ball_purple.png";
+        private const string PanImagePath = @"E:\TempRepositoryCopy\Popcorn\UI\Resources\paddle.png";
+        private const string SimpleBrickImagePath = @"E:\TempRepositoryCopy\Popcorn\UI\Resources\simple_brick.png";
 
         private Image ballImage, panImage, simpleBrickImage;
         private Form gameWindow;

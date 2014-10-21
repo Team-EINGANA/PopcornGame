@@ -3,17 +3,10 @@
   <Class Name="Popcorn.Drawer" Collapsed="true">
     <Position X="12.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>kIAAACAEBAAAAAIAAACAAAgQBAAAAAAAAAIAACAAAAA=</HashCode>
+      <HashCode>kIAAACAEBAAEgAIAAACAAAgQBAAAAAAAAAIAACAAAAA=</HashCode>
       <FileName>UI\Drawer.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
-  </Class>
-  <Class Name="Popcorn.Form1" Collapsed="true">
-    <Position X="14.25" Y="0.5" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Form1.cs</FileName>
-    </TypeIdentifier>
   </Class>
   <Class Name="Popcorn.Program" Collapsed="true">
     <Position X="16" Y="0.5" Width="1.5" />
@@ -25,7 +18,7 @@
   <Class Name="Popcorn.Classes.GameObject" Collapsed="true">
     <Position X="6.5" Y="2.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAIAAIAAAAAAAAJAAAAAAABAAYAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAABAAYAA=</HashCode>
       <FileName>Classes\GameObject.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
@@ -33,7 +26,7 @@
   <Class Name="Popcorn.Classes.Ball" Collapsed="true">
     <Position X="6.5" Y="4" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAABIAAAAQAACAAAAAAAAgAAAAAAAAAAAAAYAA=</HashCode>
+      <HashCode>AAAAAAAAAIAAAAAAACAAAAAAEAgAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Classes\Ball.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.898" />
@@ -41,14 +34,14 @@
   <Class Name="Popcorn.Classes.Brick" Collapsed="true">
     <Position X="8.75" Y="4" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Classes\Brick.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Popcorn.Classes.Pan" Collapsed="true">
     <Position X="7.5" Y="5.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAABIAAAAQAACAAAAAAAAgAAAAAAAAAAAAAYAA=</HashCode>
+      <HashCode>AAAAAAAAAIAAAAAAACAAAAAAEAgAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Classes\Pan.cs</FileName>
     </TypeIdentifier>
     <Lollipop Orientation="Right" Position="0.1" />
@@ -92,20 +85,6 @@
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAA=</HashCode>
       <FileName>Structures\Direction.cs</FileName>
-    </TypeIdentifier>
-  </Struct>
-  <Struct Name="Popcorn.Structures.Position" Collapsed="true">
-    <Position X="14.25" Y="2.75" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
-      <FileName>Structures\Position.cs</FileName>
-    </TypeIdentifier>
-  </Struct>
-  <Struct Name="Popcorn.Structures.Size" Collapsed="true">
-    <Position X="16" Y="2.75" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAABAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Structures\Size.cs</FileName>
     </TypeIdentifier>
   </Struct>
   <Interface Name="Popcorn.Interfaces.IMovable" Collapsed="true">
